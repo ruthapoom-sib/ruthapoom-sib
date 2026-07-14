@@ -59,31 +59,50 @@ I work at the intersection of **shop-floor operations, industrial data, and ente
 
 ## Technology Stack
 
-### Languages & Frameworks
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+### Application & Data Engineering
 
-### Data, Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,postgres,mysql&perline=7" alt="Application and data engineering technologies" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br><br>
 
-### Industrial & Manufacturing Systems
+### Infrastructure & Analytics
 
-![AVEVA](https://img.shields.io/badge/AVEVA-5C2D91?style=flat-square)
-![SCADA](https://img.shields.io/badge/SCADA-Industrial_Data-0B7285?style=flat-square)
-![OPC UA](https://img.shields.io/badge/OPC_UA-Connectivity-00599C?style=flat-square)
-![PLC](https://img.shields.io/badge/PLC-Automation-555555?style=flat-square)
-![IIoT](https://img.shields.io/badge/IIoT-Smart_Factory-2E8B57?style=flat-square)
+<img src="https://skillicons.dev/icons?i=docker,ubuntu,git,github,vscode,azure&perline=6" alt="Infrastructure and development tools" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Industrial Systems**
+
+AVEVA · SCADA · Historian  
+PLC · OPC UA · IIoT
+
+</td>
+<td align="center" width="33%">
+
+**Data & Analytics**
+
+SQL Server · PostgreSQL  
+Power BI · Data Pipelines
+
+</td>
+<td align="center" width="33%">
+
+**Platform Engineering**
+
+REST API · Docker  
+Linux · System Monitoring
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -100,16 +119,37 @@ I work at the intersection of **shop-floor operations, industrial data, and ente
 
 ---
 
-## GitHub Overview
+## Developer Snapshot
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I Build
+
+- Smart manufacturing platforms
+- Industrial data pipelines and APIs
+- Production, OEE, and energy dashboards
+- Monitoring and automation solutions
+
+</td>
+<td width="50%" valign="top">
+
+### How I Work
+
+- Requirement-driven system design
+- Clean and maintainable architecture
+- Root-cause analysis and troubleshooting
+- Practical solutions for factory operations
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruthapoom-sib&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthapoom-sib&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Top languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthapoom-sib&hide_border=true&theme=transparent" alt="GitHub streak" />
+[![GitHub Profile](https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruthapoom-sib)
+[![Repositories](https://img.shields.io/badge/Explore_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruthapoom-sib?tab=repositories)
 
 </div>
 
